@@ -1,0 +1,14 @@
+<view class="page">
+  <view class="page-section">
+    <view class="page-section-title" data-index='1' onTap="godemo">demo1</view>
+    <view class="page-section-demo">
+      
+    </view>
+  </view>
+  <view class="page-section">
+    <view class="page-section-title">demo2</view>
+    <view class="page-section-demo">
+      
+    </view>
+  </view>
+</view>

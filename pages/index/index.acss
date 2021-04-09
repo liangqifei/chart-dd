@@ -1,0 +1,4 @@
+.page-section{
+    padding:20rpx;
+    border-bottom: solid 2rpx rgb(0 0 0 / 15%);
+}

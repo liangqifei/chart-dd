@@ -1,0 +1,6 @@
+{
+    "defaultTitle":"demo1",
+    "usingComponents": {
+    "f2": "@antv/my-f2"
+  }
+}
